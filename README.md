@@ -4,6 +4,7 @@
 I’m thrilled to share my latest project, an XO (Tic-Tac-Toe) game built using Java, Object-Oriented Programming (OOP), and Unit Testing. This project simulates a classic two-player game with a console-based interface, showcasing my ability to design and implement clean, modular, and well-tested code.
 
 Key Features:
+
 🔴 Game Board Module:
 ✅ Dynamic Board Management: Used a 2D character array to represent the 3x3 game grid, initialized with numbers (1-9) for player reference.
 ✅ Move Validation: Implemented methods to check if a cell is empty (Is_Empty) and validate player moves.
@@ -16,6 +17,7 @@ Key Features:
 ✅ Symbol Assignment: Automatically assigned the second player’s symbol (X or O) based on the first player’s choice.
 
 🔴 Game Flow Module:
+
 ✅ Interactive Gameplay: Used Scanner for user input to collect player names, symbols, and move positions.
 ✅ Turn Management: Alternated turns between two players using a counter.
 ✅ Real-Time Updates: Displayed the updated board after each move and checked for win/draw conditions.
